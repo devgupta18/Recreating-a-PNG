@@ -1,0 +1,184 @@
+body {
+    height: 5000px;
+}
+
+nav {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container .search-bar {
+    width: 50%;
+}
+
+.container .search {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+h1,h2 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.input-group .search{
+    width: 60%;
+}
+
+.sec-nav {
+    margin-top: 15px;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.container .green {
+    background-color: white;
+    color: green;
+}
+
+.first-left {
+    margin: auto 115px;
+}
+
+.first-left .btn {
+    margin-top: 30px;
+    margin-right: 10px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.icons .material-icons {
+    margin-top: 25px;
+    margin-right: 2px;
+    margin-left: 3px;
+}
+
+.icons .first {
+    color: yellow;
+}
+
+.icons .second {
+    color: red;
+}
+
+.icons .third {
+    color: blueviolet;
+}
+
+.container .welcome {
+    background-color: white;
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-decoration-thickness: 5px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.container .finan {
+    background-color: white;
+    color: green;
+}
+
+.third-container .container {
+    margin: auto;
+}
+
+.third-container .container h4, .fourth-container .container h4 {
+    font-family: 'Roboto Slab', serif;
+    padding-left: 0;
+    font-size: 20px;
+}
+
+.third-container .container p, .fourth-container .container p {
+    font-family: 'Poppins', sans-serif;
+    margin: 25px 0;
+    line-height: 50px;
+}
+
+footer {
+    background-color: blueviolet;
+}
+
+.card {
+    border: none;
+    border-radius: 10px
+}
+
+.c-details span {
+    font-weight: 300;
+    font-size: 13px
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    background-color: #eee;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 39px
+}
+
+.badge span {
+    background-color: #fffbec;
+    width: 60px;
+    height: 25px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    display: flex;
+    color: #fed85d;
+    justify-content: center;
+    align-items: center
+}
+
+.progress {
+    height: 10px;
+    border-radius: 10px
+}
+
+.progress div {
+    background-color: red
+}
+
+.text1 {
+    font-size: 14px;
+    font-weight: 600
+}
+
+.text2 {
+    color: #a5aec0
+}
+
+.third-container .container ul {
+    display: grid;
+    justify-content: center;
+    color: #6610f2;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.d-flex .exp-now {
+    width: 40%;
+}
+
+.seven {
+    margin-top: 150px;
+    width: 80%;
+}
+
+.seven .inside {
+    margin: auto;
+    height: 500px;
+}
+
+.seven .inside div {
+    margin: auto;
+}
